@@ -7,6 +7,7 @@ But the chasm is even bigger than those numbers alone indicate. Existing studies
 ### **Inspiration**
 This project is inspired by women who throughout history have defiled all odds to be great; some notable great females scientists: Mileva Maric', Frances "Poppy" Northcut, Hedy Lamarr, Marie Sklodowska Curie and Ada Lovelace.
 
+### **Methodology**
 This analysis will be done with a dataset titled: **"Earnings of females and males employees"**; spans from 2004 to 2017. The project will be carried out using the following procedure:
 - **Data Preprocessing**
 - **Exploratory Data Analysis**
