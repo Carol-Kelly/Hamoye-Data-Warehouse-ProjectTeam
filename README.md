@@ -1,4 +1,4 @@
-## **Project Details**
+## **Project Description and Details**
 
 Study after study has identified a persistent gender pay gap. A PayScale report found that women still make only $0.79 for each dollar men make in 2019. The Bureau of Labor Statistics reported that, in 2013, female full-time workers had median weekly earnings of $706, compared to men's median weekly earnings of $860. Women aged 35 years and older earned 74% to 80% of the earnings of their male counterparts. The Bureau's analysis discovered that in 2018, median weekly earnings for female full-time wage and salary workers was 81% of men’s earnings. "Women had lower median weekly earnings than men in most of the occupations for which we have earnings data for both women and men," the BLS report found. The data is starker for minorities. The PayScale report found that the largest pay gap is for black female executives who earn only $0.63 for every dollar a white male executive earns. 
 
@@ -15,5 +15,7 @@ This analysis will be done with a dataset titled: **"Earnings of females and mal
 - **Model Building**
 - **Model Evaluation**
 - **Model Deployment**
-- **Project Documentation**
+
+### **Additional Files**
+- **Project Documentation (Article)**
 - **Project Slides**
